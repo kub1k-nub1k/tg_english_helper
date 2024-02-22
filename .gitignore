@@ -1,0 +1,7 @@
+.idea/
+env/
+venv/
+config.local
+key_token.py
+user.db
+__pycache__/
